@@ -1,116 +1,144 @@
-<!-- 🌟 Sathvik | Full Stack Developer README 🌟 -->
-
-<h1 align="center">👋 Hi, I'm Sathvik</h1>
-<h3 align="center">🚀 Full Stack Developer | Crafting Seamless Frontend & Powerful Backend Solutions</h3>
+<h1 align="center">Hi 👋, I'm Sathvik Bangera</h1>
+<h3 align="center">💻 BCA Graduate | Aspiring Software Developer | Passionate About Building Real-World Web Applications</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="600px" alt="Coding Illustration"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Web+Developer;Python+Backend+Learner;Always+Learning+New+Things+🚀" />
 </p>
 
 ---
 
-### 🧠 About Me
+# 👨‍💻 About Me
 
-- 💼 Full Stack Developer passionate about modern web apps  
-- 🌍 Based in **India 🇮🇳**  
-- 💬 Ask me about **React, Node.js, Express, MongoDB, APIs**  
-- 🎯 Currently focusing on **Next.js, Cloud Deployment, and Scalable Systems**  
-- ⚡ Fun fact: I debug with snacks 🍕☕
+- 🎓 BCA Graduate
+- 🌍 Based in India 🇮🇳
+- 💻 Passionate about Web Development & Software Engineering
+- 🚀 Built a Smart Attendance Management System
+- 🌱 Currently learning Python Backend Development & REST APIs
+- 🎯 Looking for Software Developer opportunities
+- ⚡ I enjoy solving real-world problems through code.
 
 ---
 
-### 🧰 Tech Stack
+# 🚀 Tech Stack
 
-#### 🌐 Frontend
+### Frontend
+
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-#### ⚙️ Backend
+### Backend
+
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-#### 🧩 Tools
+### Database
+
 <p>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-### 💼 Featured Projects
+# ⭐ Featured Project
 
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| 🛒 **E-Commerce Platform** | A full-featured online shop with authentication and admin dashboard | React, Node.js, MongoDB |
-| 📅 **Task Manager** | Productivity app for managing team tasks and progress | Next.js, Express, PostgreSQL |
-| 💬 **Chat Application** | Real-time chat with WebSocket integration | React, Node.js, Socket.IO |
+## 📌 AttendEase – Smart Attendance System
+
+A privacy-focused web-based attendance management system developed as part of my Software Engineering project.
+
+### Features
+
+- 🔐 Secure Login System
+- 👨‍💼 Admin Dashboard
+- 📅 Attendance Management
+- 📊 Attendance Records
+- 💾 MySQL Database
+- 🎨 Clean and Responsive UI
+
+### Tech Used
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- MySQL
+
+🔗 **Repository**
+
+https://github.com/Sathu10/AttendEasee
 
 ---
 
-### 🌱 Currently Exploring
+# 🌱 Currently Learning
 
-- Advanced **Next.js 15**
-- **AWS / Vercel** Cloud Deployment
-- **Microservices & System Design**
+- Python Backend
+- REST APIs
+- Git & GitHub
+- Database Optimization
 
 ---
 
-### 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sathvik&show_icons=true&theme=radical" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathvik&layout=compact&theme=radical" height="160px" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sathu10&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathu10&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-### 🌐 Connect With Me
+# 🔥 GitHub Streak
 
 <p align="center">
-  <a href="https://linkedin.com/in/sathvik" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/sathvik" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+
+<img src="https://streak-stats.demolab.com?user=Sathu10&theme=tokyonight"/>
+
 </p>
 
 ---
 
-### 🖼️ Illustration
+# 📈 Activity Graph
 
 <p align="center">
-  <img src="https://cdni.iconscout.com/illustration/premium/thumb/web-developer-5462733-4568396.png" width="600px" alt="Developer Illustration"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sathu10&theme=tokyo-night"/>
+
 </p>
 
 ---
 
-### ✨ Quote
+# 🤝 Connect With Me
 
-> 💡 *"Code is like humor — when you have to explain it, it’s bad."*  
-> — *Cory House*
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sathvikbangera/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:bangersathvik10@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/Sathu10">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-  <b>⭐️ From Sathvik | Full Stack Developer 🚀</b>
+
+⭐ Thanks for visiting my profile!
+
 </p>
